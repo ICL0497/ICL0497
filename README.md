@@ -12,6 +12,14 @@
   I'm a CS Student passionate about building useful or fun applications ✨.
 </p>
 
+---
+
+## 💬 About Me
+- 🎮 Enjoy cozy games and well-crafted UI
+- 📱 Love building minimalist iOS interfaces
+
+---
+
 <!-- QUICK LINKS / BADGES -->
 <!--
 <p align="center">
@@ -26,7 +34,6 @@
   </a>
 </p>
 -->
----
 
 ## 🚀 What I’m Working On
 - iOS apps using **SwiftUI + MVVM‑C** (with a focus on **Clean Architecture**)
@@ -92,12 +99,6 @@
 - Easier to unit test with most logic is outside the View.
 </details>
 -->
----
-
-## 💬 About Me
-- 🎮 Enjoy cozy games and well-crafted UI
-- 📱 Love building minimalist iOS interfaces
-
 ---
 
 ## 🌐 Connect
