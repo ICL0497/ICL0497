@@ -7,17 +7,16 @@
 </p>
 
 <!-- TITLE -->
-<h1 align="center">👋 Hey! I'm a Computer Science Student</h1>
+<h1 align="center">👋 Hello world 👋</h1>
 <p align="center">
-  Passionate about Swift, Clean Architecture, and building useful or fun applications.
+  I'm a CS Student passionate about building useful or fun applications ✨.
 </p>
 
 <!-- QUICK LINKS / BADGES -->
+<!--
 <p align="center">
   <!-- Replace the links with your own -->
-  <a href="www.linkedin.com/in/ida-løvås-b4205739b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    <!--
+  <!--
   </a>
   <a href="https://YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
@@ -26,7 +25,7 @@
     <img src="https://img.shields.io/badge/Email-7b7b7b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
+-->
 ---
 
 ## 🚀 What I’m Working On
@@ -36,26 +35,13 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<!-- ICONS (Devicon CDN). Add/remove as needed. -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>&nbsp;
-</p>
-
-<!-- BADGES (Shields.io). Use for a clean, uniform look. -->
-<p>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-333?style=for-the-badge&logo=archlinux&logoColor=white" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
+## 🧰 Tech Stack I have some experince with
+- **Languages:** Swift, Java, SQL, Go, Python
+- **iOS Frameworks:** SwiftUI, CloudKit, CoreData, StoreKit
+- **Architecture:** MVVM‑C, Clean Architecture, Design System
+- **Tools:** Xcode, Git, GitHub, IntelIJ, GoLand, MATLAB, VScode, XAMPP
+- **Design:** Figma, SF Symbols, Design System principles, Stitch 
+- **Testing:** XCTest, Unit Testing, Simulation
 ---
 <!--
 ## 📦 Featured Projects
@@ -79,6 +65,7 @@
 
 ## 📊 GitHub Stats
 <!-- Replace YOUR_USERNAME. Themes: 'tokyonight', 'radical', 'gruvbox', etc. -->
+<!--
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ICL0497&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICL0497&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
@@ -91,18 +78,12 @@
 
 ---
 
-## 🎯 2026 Goals
-- Dive deep into **Combine** and **Swift Concurrency**
-- Ship a polished app to the **App Store**
-- Strengthen **system design** and **testing** habits (TDD/DI)
-
----
-
 ## 🧪 Architecture Preferences
 - **MVVM‑C** for clear flow + testability  
 - **Clean Architecture** boundaries for maintainability  
 - **Design System** for consistent, reusable, and cohesive UI components 
 
+<!--
 <details>
   <summary>Why I like MVVM‑C + Clean Architecture</summary>
 
@@ -110,7 +91,7 @@
 - Clean layers, reduce coupling.
 - Easier to unit test with most logic is outside the View.
 </details>
-
+-->
 ---
 
 ## 💬 About Me
@@ -120,7 +101,8 @@
 ---
 
 ## 🌐 Connect
-- LinkedIn: href="www.linkedin.com/in/ida-løvås-b4205739b"
+ <a href="www.linkedin.com/in/ida-løvås-b4205739b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 
 ---
 
