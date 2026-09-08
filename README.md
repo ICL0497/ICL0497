@@ -9,14 +9,18 @@
 <!-- TITLE -->
 <h1 align="center">👋 Hello world 👋</h1>
 <p align="center">
-  I'm a CS Student passionate about building useful or fun applications ✨.
+  I'm a CS Student passionate about building useful or fun applications.
 </p>
 
 ---
+## 
+---
+---
 
-## 💬 About Me
-- 🎮 Enjoy cozy games and well-crafted UI
-- 📱 Love building minimalist iOS interfaces
+## About Me
+- Enjoy cozy games and well-crafted UI
+- Love building minimalist iOS interfaces
+- Testing out various new things
 
 ---
 
@@ -35,14 +39,13 @@
 </p>
 -->
 
-## 🚀 What I’m Working On
-- iOS apps using **SwiftUI + MVVM‑C** (with a focus on **Clean Architecture**)
-- Learning cloudkit databases and API usage
+## What I’m Working On
+- Evora - A Storytelling Game (on app store)
 - Building portfolio projects 
 
 ---
 
-## 🧰 Tech Stack I have some experince with
+## Tech Stack I have some experince with
 - **Languages:** Swift, Java, SQL, Go, Python
 - **iOS Frameworks:** SwiftUI, CloudKit, CoreData, StoreKit
 - **Architecture:** MVVM‑C, Clean Architecture, Design System
@@ -51,7 +54,7 @@
 - **Testing:** XCTest, Unit Testing, Simulation
 ---
 <!--
-## 📦 Featured Projects
+## Featured Projects
 <!-- Keep this short and skimmable. Add 2–4 projects with one-liners. -->
 <!--
 - **Project One — Minimal Habit Tracker (iOS)**
@@ -70,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <!-- Replace YOUR_USERNAME. Themes: 'tokyonight', 'radical', 'gruvbox', etc. -->
 <!--
 <p>
@@ -85,7 +88,7 @@
 
 ---
 
-## 🧪 Architecture Preferences
+## Architecture Preferences
 - **MVVM‑C** for clear flow + testability  
 - **Clean Architecture** boundaries for maintainability  
 - **Design System** for consistent, reusable, and cohesive UI components 
