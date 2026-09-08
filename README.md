@@ -13,15 +13,10 @@
 </p>
 
 ---
-## 
----
----
-
 ## About Me
 - Enjoy cozy games and well-crafted UI
 - Love building minimalist iOS interfaces
 - Testing out various new things
-
 ---
 
 <!-- QUICK LINKS / BADGES -->
