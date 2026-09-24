@@ -15,8 +15,8 @@
 ---
 ## About Me
 - Enjoy cozy games and well-crafted UI
-- Love building minimalist iOS interfaces
-- Testing out various new things
+- Like building minimalist iOS interfaces
+- I love testing out various new things
 ---
 
 <!-- QUICK LINKS / BADGES -->
@@ -36,16 +36,17 @@
 
 ## What I’m Working On
 - Evora - A Storytelling Game (on app store)
-- Building portfolio projects 
+- Learning pixel art for game development
+- Building smaller portfolio projects 
 
 ---
 
 ## Tech Stack I have some experince with
-- **Languages:** Swift, Java, SQL, Go, Python
+- **Languages:** Swift, Java, SQL, Go, Python, Kotlin
 - **iOS Frameworks:** SwiftUI, CloudKit, CoreData, StoreKit
 - **Architecture:** MVVM‑C, Clean Architecture, Design System
 - **Tools:** Xcode, Git, GitHub, IntelIJ, GoLand, MATLAB, VScode, XAMPP
-- **Design:** Figma, SF Symbols, Design System principles, Stitch 
+- **Design:** Figma, SF Symbols, Design System principles, Stitch, Aseprite
 - **Testing:** XCTest, Unit Testing, Simulation
 ---
 <!--
